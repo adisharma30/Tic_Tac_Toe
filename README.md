@@ -17,6 +17,7 @@ Any suggestions and any improvement in the program will be highly appreciated.
 
 Please find the code for the game below
 _______________________________________________________________________________________
+```python
 from IPython.display import clear_output
 import sys
 Board=['']*10
@@ -121,3 +122,5 @@ for i in range(1,6):
 		Create_Board()
 		count=count+1
 		Win_check(c2,count)
+		
+```
